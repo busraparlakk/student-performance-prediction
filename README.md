@@ -6,7 +6,9 @@ Makine Öğrenmesi ile Öğrenci Başarı Tahmini
 Bu proje, UCI Student Performance veri seti (özellikle student-mat.csv) kullanılarak öğrencilerin final notunun (G3) tahmin edilmesini amaçlayan bir veri analizi ve makine öğrenmesi çalışmasıdır.
 Proje Google Colab üzerinde gerçekleştirilmiştir ve GitHub’a yüklenebilir yapıdadır.
 
-1. Proje Yapısı
+## 1. Proje Yapısı
+
+```bash
 ├── student_data/
 │   ├── student-mat.csv
 │   ├── student-por.csv
@@ -14,7 +16,8 @@ Proje Google Colab üzerinde gerçekleştirilmiştir ve GitHub’a yüklenebilir
 │   └── student-merge.R
 ├── prediction_results.csv
 ├── student_grade_model.pkl
-└── Student_Performance_Analysis.ipynb
+└── student_performance_prediction.ipynb
+```
 
 2. Projenin Amacı
 
