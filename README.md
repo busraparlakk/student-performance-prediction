@@ -19,7 +19,7 @@ Proje Google Colab üzerinde gerçekleştirilmiştir ve GitHub’a yüklenebilir
 └── student_performance_prediction.ipynb
 ```
 
-2. Projenin Amacı
+2. Projenin Amacı:
 
 Veri setini incelemek
 
