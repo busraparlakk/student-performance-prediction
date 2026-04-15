@@ -106,7 +106,7 @@ Gerçek ve tahmin değerleri: prediction_results.csv
 Model, öğrencilerin final notunu tahmin etmede başarılı performans göstermiştir.
 Özellikle geçmiş dönem notları (G1 ve G2), çalışma süresi ve devamsızlık değişkenleri tahmin üzerinde önemli etkiye sahiptir.
 
-7. Çalıştırma
+7. Çalıştırma:
 
 Dosyaları bu yapıda tutun
 
