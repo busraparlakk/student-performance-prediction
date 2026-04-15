@@ -47,7 +47,7 @@ scikit-learn
 
 joblib
 
-4. Veri Seti Hakkında
+4. Veri Seti Hakkında:
 
 Kullanılan veri seti UCI Student Performance veri setidir.
 Öğrencilerin demografik bilgileri, aile bilgileri, eğitim geçmişi, devamsızlık durumu ve dönem içi notları gibi çeşitli değişkenler içerir.
